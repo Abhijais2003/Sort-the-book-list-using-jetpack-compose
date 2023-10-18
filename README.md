@@ -2,7 +2,7 @@
 
 This is a sample Android app built using Jetpack Compose, a modern Android UI toolkit for building native user interfaces. The app demonstrates a simple book sorting interface with a dropdown menu to sort books alphabetically.
 
-![Images](Android Emulator - AbhishekJaiswal_Android_device_5554 19-10-2023 00_03_53.png)
+![Images](Images/Android Emulator - AbhishekJaiswal_Android_device_5554 19-10-2023 00_03_53.png)
 
 ## Features
 
