@@ -12,6 +12,9 @@
 bin/
 gen/
 
+#Github
+.Images
+
 # Local configuration file (sdk path, etc)
 local.properties
 
