@@ -1,1 +1,25 @@
 # sort-the-book-list-using-jetpack-compose
+
+This is a sample Android app built using Jetpack Compose, a modern Android UI toolkit for building native user interfaces. The app demonstrates a simple book sorting interface with a dropdown menu to sort books alphabetically.
+
+![App Screenshot](screenshot.png)
+
+## Features
+
+- Sort books alphabetically (A to Z or Z to A).
+- Display book names with images.
+
+## Getting Started
+
+To run this project on your local machine, follow these steps:
+
+### Prerequisites
+
+- Android Studio with Kotlin support.
+
+### Installation
+
+1. Clone this repository to your local machine.
+
+```bash
+git clone https://github.com/yourusername/your-repo.git
